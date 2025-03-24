@@ -14,8 +14,4 @@ Je suis [Dacacio Mathis] ! Passionné par le développement et la technologie.
 
 📫 Contactez-moi : [mathis.dacacio@gmail.com](mailto:mathis.dacacio@gmail.com)  
 
-🚀 [Mon portfolio](https://portfolio-mathis-dacacio.vercel.app/)  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monusername&show_icons=true&theme=radical)  
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=monusername&layout=compact)
+🚀 [Mon portfolio](https://portfolio-mathis-dacacio.vercel.app/)
