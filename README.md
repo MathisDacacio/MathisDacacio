@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**MathisDacacio/MathisDacacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bienvenue 👋
 
-Here are some ideas to get you started:
+Je suis [Dacacio Mathis] ! Passionné par le développement et la technologie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Je travaille sur **Mon Portfolio**  
+🔭 Je m'intéresse au **développement web et mobile**
+🤔 J'aurais bien besoin d'aide pour **faire du beau CSS**
+📚 Je suis en 2ᵉ année à [Enigma School](https://www.enigma-school.com/)
+⚡ Fun fact: **Je cherche un stage pour début juin 2025**
+📫 Contactez-moi : [mathis.dacacio@gmail.com](mailto:mathis.dacacio@gmail.com)  
+🚀 [Mon portfolio](https://portfolio-mathis-dacacio.vercel.app/)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monusername&show_icons=true&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=monusername&layout=compact)
