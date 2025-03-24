@@ -1,6 +1,6 @@
 # Bienvenue 👋
 
-Je suis [Dacacio Mathis] ! Passionné par le développement et la technologie.  
+Je suis *Dacacio Mathis* ! Passionné par le développement et la technologie.  
 
 🌱 Je travaille sur **Mon Portfolio**  
 
