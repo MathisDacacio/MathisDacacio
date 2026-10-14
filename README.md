@@ -8,9 +8,9 @@ Je suis *Dacacio Mathis* ! Passionné par le développement et la technologie.
 
 🤔 J'aurais bien besoin d'aide pour **faire du beau CSS**  
 
-📚 Je suis en 3ᵉ année à [Enigma School](https://www.enigma-school.com/)  
+📚 Je suis en 4ᵉ année à [Enigma School](https://www.enigma-school.com/)  
 
-⚡ Fun fact: **Je cherche une alternance de septembre 2026 pour 2 ans**  
+⚡ Fun fact: **Je suis en alternance chez Proges Plus jusque Octobre 2028**  
 
 📫 Contactez-moi : [mathis.dacacio@gmail.com](mailto:mathis.dacacio@gmail.com)  
 
